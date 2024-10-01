@@ -1,4 +1,4 @@
 def greet():
     print("Hello,Welcome to Github practice!")
-if __name__="__main__":
+if __name__=="__main__":
     greet()
